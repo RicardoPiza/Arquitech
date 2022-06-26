@@ -1,37 +1,37 @@
-Project title
-Arquitech
-
-Description
-A budget generator made for professionals in the field of architecture
-
-Getting Started
+<h2>Project title</h2>
+Arquitech<br>
+<br>
+<h2>Description</h2>
+A budget generator made for professionals in the field of architecture<br>
+<br>
+<h2>Getting Started</h2>
 To install the project, you need to have a Java IDE installed, preferably Eclipse EE, in which the project was developed. Then you have to deploy the project into your server
-
-Dependencies
-
-Java IDE(Eclipse EE)
-JDK 17+
-Tomcat 9
-MySQL server.
-Installing
+<br>
+<h2>Dependencies</h2>
+<br>
+Java IDE(Eclipse EE)<br>
+JDK 17+<br>
+Tomcat 9<br>
+MySQL server.<br>
+<h2>Installing</h2><br>
 git clone this repository
-To install the project you need to open it on IDE and export as a WAR file into your tomcat server - <apachefolder>/bin/webapps - 
-Executing program - Opening your browser and putting the address of your installed server, you can see the start page (e.g localhost:8080/Arquitech/).
+To install the project you need to open it on IDE and export as a WAR file into your tomcat server - <apachefolder>/bin/webapps - <br>
+Executing program - Opening your browser and putting the address of your installed server, you can see the start page (e.g localhost:8080/Arquitech/).<br>
+<br>
+<h2>Help</h2>
+<br>
+Pay attention for dependencies versions, if some is out of date, the program will not run.<br>
+<br>
+<h2>Authors</h2>
+Ricardo Henrique Piza<br>
 
-Help
-Pay attention for dependencies versions, if some is out of date, the program will not run.
-
-Authors
-Ricardo Henrique Piza - Giovani Belgini Souza
-
-Version History
-0.1 - JavaFx version
-0.2 - Java Swing version
-0.3 - Java Web version
-1.0 - Java Web with JSP final budget page
-2.0 - Java Web with database implementation started
-License
-This is an open source project, no licenses is needed to run it, use or development.
-
-Acknowledgments
+<h2>Version History</h2>
+0.1 - JavaFx version<br>
+0.2 - Java Swing version<br>
+0.3 - Java Web version<br>
+1.0 - Java Web with database implementation started<br>
+<h2>License</h2>
+This is an open source project, no licenses is needed to run it, use or development.<br>
+<br>
+<h2>Acknowledgments</h2>
 This project was inspired by the need for professionals in the field of architecture to make daily budgets
