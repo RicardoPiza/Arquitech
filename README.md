@@ -14,7 +14,7 @@ JDK 17+ (Java SE 13 lib)<br>
 Tomcat 9<br>
 MySQL server.<br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/89050017/188249811-e39a665d-e9c6-4487-9d24-93528687f2fe.png" width="500" title="">
+  <img src="https://user-images.githubusercontent.com/89050017/188249811-e39a665d-e9c6-4487-9d24-93528687f2fe.png" width="600" title="">
 </p>
 
 
