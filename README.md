@@ -13,7 +13,9 @@ Java IDE(Eclipse EE)<br>
 JDK 17+ (Java SE 13 lib)<br>
 Tomcat 9<br>
 MySQL server.<br>
-<img src = "![image]https://user-images.githubusercontent.com/89050017/188249689-4b464be3-c572-4a42-9cf5-86433d5a9beb.png)">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89050017/188249811-e39a665d-e9c6-4487-9d24-93528687f2fe.png" width="350" title="">
+</p>
 
 
 <h2>Installing</h2><br>
