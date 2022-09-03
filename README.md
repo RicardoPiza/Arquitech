@@ -10,9 +10,11 @@ To install the project, you need to have a Java IDE installed, preferably Eclips
 <h2>Dependencies</h2>
 <br>
 Java IDE(Eclipse EE)<br>
-JDK 17+<br>
+JDK 17+ (Java SE 13 lib)<br>
 Tomcat 9<br>
 MySQL server.<br>
+![image](https://user-images.githubusercontent.com/89050017/188249632-658dd6aa-4a23-434a-88bd-01683ac29227.png)
+
 <h2>Installing</h2><br>
 git clone this repository
 To install the project you need to open it on IDE and export as a WAR file into your tomcat server - <apachefolder>/bin/webapps - <br>
